@@ -61,4 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ---
 
-Feel free to customize the README to match your project's structure and information. Make sure to replace placeholders like `yourusername` and `your-chatbot-repo` with your actual GitHub username and repository name.
