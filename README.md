@@ -53,7 +53,7 @@ This is a conversational chat bot built using Python. The chat bot is designed t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/KushagraMaheshwariProgrammer/Chat_bot/blob/main/LICENSE.txt) file for details.
 
 ## Acknowledgments
 
